@@ -1,0 +1,25 @@
+# Instruktion för att starta prov
+
+
+
+
+## Instruktion för elever som använder Chromebook
+Elever som använder Chromebook kan starta provet som vanligt. ..... 
+
+## Instruktion för elever som ska använda SEB
+
+Gör så här för att dela ut och använda filen för elever som använder SEB:
+1. Ladda ner följande SEB fil.
+   > [DNP.seb](DNP.seb)
+2. Distribuera filen till alla elever. Ni behöver samtidigt informera om lösenordet för att starta och avsluta SEB. Lösenordet är `2425`. 
+   * Om ni använder en webbaserad distribution, till exempel en lärplattform, kan eleverna klicka på filen och använda den som vanligt. 
+   * Om ni använder e-post måste elever som använder Ipad spara ner filen till appen Filer och sedan starta filen därifrån. Hur de gör beror på val av e-postlösning. Elever som använder Windows eller Mac kan dubbelklicka på filen i mejlet och göra som vanligt. 
+   * Om ni använder Teams eller Google Classroom måste eleverna först ladda ner filen till sin enhet och sedan öppna den.
+   <br><br>
+3. Informera sedan eleverna om den nya platsen för SEB startfil och hur de ska gå tillväga.
+
+## Instruktion för elever som är undantagna från nedlåst läge
+Elever som inte startar porvet i nedlåst läge ska använda den här länken: https://provplattformen.skolverket.se/engine/index.php/lms/login/path/sso_NP
+
+## Kontakt
+https://www.skolverket.se/kontakt
