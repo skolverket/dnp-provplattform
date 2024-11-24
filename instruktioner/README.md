@@ -9,7 +9,7 @@ Elever som använder Chromebook kan starta provet som vanligt
 
 Gör så här för att dela ut och använda filen för elever som använder SEB:
 1. Ladda ner följande SEB fil.
-   > [DNP.seb](https://github.com/nighal/dnp-test-platform/blob/main/instruktioner/DNP.seb)
+   > [Senaste SEB fil](https://github.com/skolverket/dnp-test-platform/releases/latest)
 2. Distribuera filen till alla elever. Ni behöver samtidigt informera om lösenordet för att starta och avsluta SEB. Lösenordet är `2425`. 
    * Om ni använder en webbaserad distribution, till exempel en lärplattform, kan eleverna klicka på filen och använda den som vanligt.
      <span style="color: red">Beskriva eller hänvisa till den vanliga stegen?</span>
