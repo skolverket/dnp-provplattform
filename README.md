@@ -9,7 +9,7 @@ Informationen är riktade till .....
 
 .......
 
-> [Läs mer om instruktion för att starta prov](instruktioner/instruktion-för-att-starta-prov.md)
+> [Läs mer om instruktion för att starta prov](instruktioner/README)
 
 ## Kontakt
 https://www.skolverket.se/kontakt

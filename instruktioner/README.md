@@ -23,9 +23,10 @@ Här loggar du som elev in i provplattformen via Safe exam browser (SEB). När d
 
 Gör så här för att logga in:
 1. Spara ditt arbete. När du loggar in via Safe exam browser kan andra program stängas ned.
-2. Klicka på länken [Logga in i provplattformen via Safe exam browser](sebs://www.skolverket.se/download/18.51c904b718e5404561cce/1731677128955/DNP.seb).
+2. Klicka på följande länk. 
+   > <a href="sebs://www.skolverket.se/download/18.51c904b718e5404561cce/1731677128955/DNP.seb" title="Logga in i provplattformen via Safe exam browser">Klicka här för att logga in i provplattformen via Safe exam browser</a>
 3. Bekräfta att du vill öppna Safe exam browser.
-4. Ange lösenordet 2425
+4. Ange lösenordet `2425`.
 5. Bekräfta att du vill stänga ner eventuella öppna program. (Om du inte har några andra program öppna så kommer du inte att få den här frågan.)
 
 ## Instruktion för elever som är undantagna från nedlåst läge
