@@ -1,18 +1,23 @@
-# dnp-test-platform
-Skolverket digitaliserar de nationella proven (DNP).
+# Alternativ inloggning till Skolverkets provplattform om Skolverket.se inte fungerar
+Om Skolverkets webbplats ligger nere går det inte att logga in till provplattformen och aktivera nedlåst läge på de digitala enheter som använder Safe exam browser (SEB) på det vanliga sättet. Eleverna måste i stället få den fil som startar och konfigurerar SEB på annat sätt. Nedan finns filen som ska distribueras till eleverna.
 
-I detta bibliotek finns övergripande information om Skolverkets provplattform ....
+## De här eleverna påverkas inte:
 
-Informationen är riktade till .....
+-	Elever som genomför prov på Chromebook. De kan starta provet som vanligt. 
+-	Elever som är undantagna från nedlåst läge. De ska använda den här länken: [https://provplattformen.skolverket.se/engine/index.php/lms/login/path/sso_NP](https://provplattformen.skolverket.se/engine/index.php/lms/login/path/sso_NP)
 
-## Skolverkets provplattform
 
-.......
+## Gör så här för att dela ut och använda filen för elever som använder SEB
+1. Distribuera filen till alla elever.
+    -	Om ni använder en webbaserad distribution, till exempel en lärplattform, kan eleverna klicka på filen och använda den som vanligt.
+    -	Om ni använder e-post måste elever som använder Ipad spara ner filen till appen "Filer" och sedan starta filen därifrån. Hur de gör beror på val av e-postlösning. Elever som använder Windows eller Mac kan dubbelklicka på filen i mejlet och göra som vanligt.
+    -	Om ni använder Teams eller Google Classroom måste eleverna först ladda ner filen till sin enhet och sedan öppna den.
+2. Informera sedan eleverna om den nya platsen för SEB startfil, hur de ska gå tillväga och att lösenordet för att startaoch avsluta SEB är **2425**.
 
-## Instruktion för att starta prov
-....
+## När webbplatsen fungerar igen
+Så snart skolverket.se fungerar igen ska elever använda den vanliga vägen för att logga in till provplattformen. Men det går bra att fortsätta använda den här tillfälliga distributionen så länge skolverket.se ligger nere.
 
-> [Läs mer om instruktion för att starta prov](instruktioner/README.md)
+**[Ladda ner SEB-filen här](https://github.com/skolverket/dnp-test-platform/raw/refs/heads/main/DNP.seb)**
 
 ## Kontakt
 https://www.skolverket.se/kontakt
