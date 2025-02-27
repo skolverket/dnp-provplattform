@@ -18,6 +18,7 @@ Om Skolverkets webbplats ligger nere går det inte att logga in till provplattfo
 Så snart skolverket.se fungerar igen ska elever använda den vanliga vägen för att logga in till provplattformen. Men det går bra att fortsätta använda den här tillfälliga distributionen så länge skolverket.se ligger nere.
 
 Använd någon av dessa länkar i en webbläsare, lärplattform eller liknande:
+
 sebs://seb-file-downloader-prod.skolverket.se/DNP_vt25.seb
 sebs://github.com/skolverket/dnp-provplattform/raw/refs/heads/main/DNP_vt25.seb
 
