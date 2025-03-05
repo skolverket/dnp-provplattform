@@ -23,5 +23,8 @@ sebs://seb-file-downloader-prod.skolverket.se/DNP_vt25.seb
 
 sebs://github.com/skolverket/dnp-provplattform/raw/refs/heads/main/DNP_vt25.seb
 
+https://github.com/skolverket/dnp-provplattform/raw/refs/heads/main/DNP_vt25.seb
+
+
 ## Kontakt
 https://www.skolverket.se/kontakt
