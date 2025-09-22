@@ -19,9 +19,9 @@ Så snart skolverket.se fungerar igen ska elever använda den vanliga vägen fö
 
 Använd någon av dessa länkar i en webbläsare, lärplattform eller liknande:
 
-sebs://seb-file-downloader-prod.skolverket.se/DNP_vt25.seb
+sebs://seb-file-downloader-prod.skolverket.se/DNP.seb
 
-sebs://github.com/skolverket/dnp-provplattform/raw/refs/heads/main/DNP_vt25.seb
+sebs://github.com/skolverket/dnp-provplattform/raw/refs/heads/main/DNP.seb
 
 
 
