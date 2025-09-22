@@ -12,7 +12,7 @@ Om Skolverkets webbplats ligger nere går det inte att logga in till provplattfo
     -	Om ni använder en webbaserad distribution, till exempel en lärplattform, kan eleverna klicka på filen och använda den som vanligt.
     -	Om ni använder e-post måste elever som använder Ipad spara ner filen till appen "Filer" och sedan starta filen därifrån. Hur de gör beror på val av e-postlösning. Elever som använder Windows eller Mac kan dubbelklicka på filen i mejlet och göra som vanligt.
     -	Om ni använder Teams eller Google Classroom måste eleverna först ladda ner filen till sin enhet och sedan öppna den.
-2. Informera sedan eleverna om den nya platsen för SEB startfil, hur de ska gå tillväga och att lösenordet för att startaoch avsluta SEB är **2425**.
+2. Informera sedan eleverna om den nya platsen för SEB startfil, hur de ska gå tillväga och att lösenordet för att startaoch avsluta SEB är **2526**.
 
 ## När webbplatsen fungerar igen
 Så snart skolverket.se fungerar igen ska elever använda den vanliga vägen för att logga in till provplattformen. Men det går bra att fortsätta använda den här tillfälliga distributionen så länge skolverket.se ligger nere.
