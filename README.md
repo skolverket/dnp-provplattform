@@ -1,5 +1,5 @@
 # Alternativ inloggning till Skolverkets provplattform om skolverket.se inte fungerar
-Om Skolverkets webbplats ligger nere går det inte att använda det vanliga sättet att aktivera nedlåst läge på de digitala enheter som använder Safe exam browser (SEB) och logga in till provplattformen. Eleverna måste därför få åtkomst till den fil som startar och konfigurerar SEB på annat sätt.
+Om Skolverkets webbplats (skolverket.se) ligger nere går det inte att använda det vanliga sättet att aktivera nedlåst läge på de digitala enheter som använder Safe exam browser (SEB) och logga in till provplattformen. Eleverna måste därför få åtkomst till den fil som startar och konfigurerar SEB på annat sätt.
 Nedan finns tre alternativa sätt att starta SEB och logga in i provplattformen. Du som huvudman väljer vilket ni vill använda och säkerställer att alla i organisationen vet vad som behöver göras för att använda det alternativ ni valt.
  <br/>
  
@@ -11,9 +11,9 @@ Nedan finns tre alternativa sätt att starta SEB och logga in i provplattformen.
  
 ## Gör så här för att möjliggöra för elever att använda SEB om Skolverkets webbplats ligger nere
 Välj hur ni vill att eleverna ska komma åt filen utifrån ett av alternativen nedan. Informera sedan eleverna om 
--	den nya platsen ni valt 
+-	den nya platsen ni har valt 
 -	hur de ska gå tillväga i er specifika it-miljö
--	att lösenordet för att starta och avsluta SEB är 2526.
+-	att lösenordet för att starta och avsluta SEB är följande: 2526
 
 
 ### Alternativ 1: Webbaserad åtkomst
@@ -27,20 +27,20 @@ sebs://github.com/skolverket/dnp-provplattform/raw/refs/heads/main/DNP.seb
 1.	Ni kan ladda ned filen via länken nedan och sedan distribuera den via mejl.
 2.	Hur eleverna sedan startar filen beror på vilken typ av lösning ni har för mejl samt vilket operativsystem ni använder. Säkerställ hur det fungerar hos just er och informera eleverna. På Ipad måste man spara ned filen i appen ”Filer” och sedan starta filen därifrån. I Windows och på Mac kan man ofta starta filen genom att dubbelklicka på den direkt i mejlet.
 
-Länk för att ladda ned SEB startfil. Den kan **inte** användas för att starta SEB automatiskt.
+Länk för att ladda ned SEB startfil. (Observera att den **inte** kan användas för att starta SEB automatiskt):
 https://github.com/skolverket/dnp-provplattform/raw/refs/heads/main/DNP.seb
 
 ### Alternativ 3: Åtkomst via Teams eller Google Classroom
 1.	Använder ni Teams eller Google Classroom laddar ni först ned filen via länken nedan och lägger sedan in den i er plattform så att eleverna kan nå den. 
 2.	Eleverna behöver först ladda ned filen till sin enhet och sedan öppna den. 
 
-Länk för att ladda ned SEB startfil. Den kan **inte** användas för att starta SEB automatiskt.
+Länk för att ladda ned SEB startfil. (Observera att den **inte** kan användas för att starta SEB automatiskt):
 https://github.com/skolverket/dnp-provplattform/raw/refs/heads/main/DNP.seb
  <br/>
  <br/>
 
 ## När webbplatsen fungerar igen
-Så snart Skolverkets webbplats fungerar igen ska elever använda den vanliga vägen för att logga in till provplattformen. Den vanliga vägen för att nå SEB startfil är https://www.skolverket.se/prov-och-bedomning/provtjansten/om-skolverkets-provplattform/logga-in-i-provplattformen/logga-in-med-safe-exam-browser
+Så snart Skolverkets webbplats fungerar igen ska elever använda den vanliga vägen för att logga in till provplattformen. Den vanliga vägen för att nå SEB startfil är genom följande länk: https://www.skolverket.se/prov-och-bedomning/provtjansten/om-skolverkets-provplattform/logga-in-i-provplattformen/logga-in-med-safe-exam-browser
 
 
 
