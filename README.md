@@ -1,5 +1,6 @@
 # Alternativ inloggning till Skolverkets provplattform om skolverket.se inte fungerar
-Om Skolverkets webbplats ligger nere går det inte att logga in till provplattformen och aktivera nedlåst läge på de digitala enheter som använder Safe exam browser (SEB) på det vanliga sättet. Eleverna måste därför få åtkomst till den fil som startar och konfigurerar SEB på annat sätt. Ni som huvudman och skola kan välja något av alternativen nedan för att ge eleverna åtkomst.
+Om Skolverkets webbplats ligger nere går det inte att använda det vanliga sättet att aktivera nedlåst läge på de digitala enheter som använder Safe exam browser (SEB) och logga in till provplattformen. Eleverna måste därför få åtkomst till den fil som startar och konfigurerar SEB på annat sätt.
+Nedan finns tre alternativa sätt att starta SEB och logga in i provplattformen. Du som huvudman väljer vilket ni vill använda och säkerställer att alla i organisationen vet vad som behöver göras för att använda det alternativ ni valt.
  <br/>
  
 ## De här eleverna påverkas inte:
