@@ -21,7 +21,7 @@ Välj ett av alternativen nedan för att möjliggöra för elever att använda S
    
    I båda fallen följer eleverna sedan samma procedur som vanligt för att tillåta Safe exam browser att öppnas och sedan logga in i provplattformen.
 
-4. Lösenord för att starta och avsluta SEB är 2526
+4. Lösenord för att starta och avsluta SEB är 2627
 
 Länk att sprida till eleverna:
 sebs://github.com/skolverket/dnp-provplattform/raw/refs/heads/main/DNP.seb
@@ -41,7 +41,7 @@ Om ni föredrar kan ni i stället för länk välja att distribuera filen till e
 
 3. Hur eleverna gör för att använda filen beror på hur ni distribuerat den, och vad eleverna använder för program och digital enhet. I många fall måste eleverna först spara ned filen och sedan dubbelklicka för att öppna den. Testa vad som gäller just hos er och informera eleverna.
 
-4. Lösenord för att starta och avsluta SEB är 2526
+4. Lösenord för att starta och avsluta SEB är 2627
 
 [Länk för att ladda ned fil.](https://github.com/skolverket/dnp-provplattform/raw/refs/heads/main/DNP.seb) (SEB startas inte med denna länk)
 <br/>
@@ -49,7 +49,7 @@ Om ni föredrar kan ni i stället för länk välja att distribuera filen till e
 
 ## När webbplatsen fungerar igen
 
-Så snart skolverket.se fungerar igen ska man starta bedömningsstöd via den ordinarie länken på sidan [Logga in med Safe exam browser](https://www.skolverket.se/prov-och-bedomning/provtjansten/om-skolverkets-provplattform/logga-in-i-provplattformen/logga-in-med-safe-exam-browser).
+Så snart skolverket.se fungerar igen ska man starta bedömningsstöd via den ordinarie länken på sidan [Logga in med Safe exam browser](https://skolverket.se/seb).
 <br/>
 <br/>
 
